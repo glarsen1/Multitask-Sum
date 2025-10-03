@@ -15,6 +15,9 @@ The program initializes an array of integers (1–10) and creates multiple worke
 
 ## 📂 Project Structure
 - Multitask_Sum.c # Source code
+- Multitask_Sum.txt # Text file
+- multitask_sum.exe # Application
+- outDebug.exe # Application
 - README.md # Project description and instructions
 
 
